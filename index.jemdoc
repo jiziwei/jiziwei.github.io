@@ -1,0 +1,61 @@
+= Ziwei Ji
+
+I am a fifth year PhD student in [https://cs.illinois.edu/ Computer Science] at
+University of Illinois Urbana-Champaign, advised by
+[http://mjt.cs.illinois.edu/ Matus Telgarsky].
+I am interested in machine learning and optimization, particularly in deep
+learning theory.
+Previously, I obtained my bachelor's degree in Computer Science from the ACM
+class at Shanghai Jiao Tong University.
+
+Email: ziweiji2 (at) illinois (dot) edu
+
+[cv.pdf CV.]
+[https://scholar.google.com/citations?user=QiQ_FXIAAAAJ&hl=en Google Scholar.]
+
+== Publications
+
+=== Manuscripts
+
+- [https://arxiv.org/abs/1906.04540 A refined primal-dual analysis of the implicit bias] \n
+  Ziwei Ji, Matus Telgarsky. \n
+
+=== Conference publications
+
+- [https://arxiv.org/abs/2006.06657 Directional convergence and alignment in deep learning] \n
+  Ziwei Ji, Matus Telgarsky. \n
+  NeurIPS 2020, Spotlight.
+
+- [https://arxiv.org/abs/2006.11226 Gradient descent follows the regularization path for general losses] \n
+  Ziwei Ji, Miroslav Dudík, Robert E. Schapire, Matus Telgarsky. \n
+  COLT 2020.
+
+- [https://arxiv.org/abs/1909.12292 Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks] \n
+  Ziwei Ji, Matus Telgarsky. \n
+  ICLR 2020.
+
+- [https://arxiv.org/abs/1910.06956 Neural tangent kernels, transportation mappings, and universal approximation] \n
+  Ziwei Ji, Matus Telgarsky, Ruicheng Xian. \n
+  ICLR 2020.
+
+- [https://arxiv.org/abs/1803.07300 Risk and parameter convergence of logistic regression] \n
+  Ziwei Ji, Matus Telgarsky. \n
+  In COLT 2019 under the name "The implicit bias of gradient descent on nonseparable data".
+
+- [https://arxiv.org/abs/1810.02032 Gradient descent aligns the layers of deep linear networks] \n
+  Ziwei Ji, Matus Telgarsky. \n
+  ICLR 2019.
+
+- [https://arxiv.org/abs/1711.02211 Social Welfare and Profit Maximization from Revealed Preferences] \n
+  Ziwei Ji, Ruta Mehta, Matus Telgarsky. \n
+  WINE 2018.
+
+== Teaching
+
+- Teaching assistant for UIUC CS 598 Deep Learning Theory (Fall 2020).
+
+- Teaching assistant for UIUC CS 446 Machine Learning (Spring 2019).
+
+== Service
+
+Reviewer for NeurIPS, ICLR, COLT, EC, ITCS, IEEE Transactions on Information Theory.
