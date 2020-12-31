@@ -16,12 +16,13 @@ Email: ziweiji2 (at) illinois (dot) edu
 
 == Publications
 
-=== Manuscripts
-
-- [https://arxiv.org/abs/1906.04540 A refined primal-dual analysis of the implicit bias] \n
-  Ziwei Ji, Matus Telgarsky. \n
+# === Manuscripts
 
 === Conference publications
+
+- [https://arxiv.org/abs/1906.04540 Characterizing the implicit bias via a primal-dual analysis] \n
+  Ziwei Ji, Matus Telgarsky. \n
+  ALT 2021.
 
 - [https://arxiv.org/abs/2006.06657 Directional convergence and alignment in deep learning] \n
   Ziwei Ji, Matus Telgarsky. \n
@@ -50,6 +51,16 @@ Email: ziweiji2 (at) illinois (dot) edu
 - [https://arxiv.org/abs/1711.02211 Social Welfare and Profit Maximization from Revealed Preferences] \n
   Ziwei Ji, Ruta Mehta, Matus Telgarsky. \n
   WINE 2018.
+
+== Talks
+
+- *The dual of the margin: improved analyses and rates for gradient descent’s implicit bias* \n
+One World Seminar Series on the Mathematics of Machine Learning, December 2020.
+
+- *Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks* \n
+Illinois Institute for Data Science and Dynamical Systems (IDS2) Seminar Series, April 2020; \n
+14th Annual Machine Learning Symposium, The New York Academy of Sciences, March 2020; \n
+15th CSL Student Conference, February 2020.
 
 == Teaching
 
