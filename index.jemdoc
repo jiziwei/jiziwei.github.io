@@ -16,9 +16,16 @@ Email: ziweiji2 (at) illinois (dot) edu
 
 == Publications
 
-# === Manuscripts
+=== Manuscripts
+
+- [https://arxiv.org/abs/2106.05932 Early-stopped neural networks are consistent] \n
+  Ziwei Ji, Justin D. Li, Matus Telgarsky.
 
 === Conference publications
+
+- [https://arxiv.org/abs/2107.00595 Fast Margin Maximization via Dual Acceleration] \n
+  Ziwei Ji, Nathan Srebro, Matus Telgarsky. \n
+  ICML 2021.
 
 - [https://arxiv.org/abs/1906.04540 Characterizing the implicit bias via a primal-dual analysis] \n
   Ziwei Ji, Matus Telgarsky. \n
@@ -70,4 +77,4 @@ Illinois Institute for Data Science and Dynamical Systems (IDS2) Seminar Series,
 
 == Service
 
-Reviewer for NeurIPS, ICLR, COLT, EC, ITCS, IEEE Transactions on Information Theory.
+Reviewer for NeurIPS, ICLR, COLT, ICML, EC, ITCS, IEEE Transactions on Information Theory.
