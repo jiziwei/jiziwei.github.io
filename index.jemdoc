@@ -16,7 +16,19 @@ Email: ziweiji2 (at) illinois (dot) edu
 
 == Publications
 
+=== Manuscripts
+
+- [https://arxiv.org/abs/2201.13419 Agnostic Learnability of Halfspaces via Logistic Loss] \n
+  Ziwei Ji, Kwangjun Ahn, Pranjal Awasthi, Satyen Kale, Stefani Karp. \n
+
+- [https://arxiv.org/abs/2202.04598 Reproducibility in Optimization: Theoretical Framework and Limits] \n
+  Kwangjun Ahn, Prateek Jain, Ziwei Ji, Satyen Kale, Praneeth Netrapalli, Gil I. Shamir. \n
+
 === Conference publications
+
+- [https://arxiv.org/abs/2110.11280 Actor-critic is implicitly biased towards high entropy optimal policies] \n
+  Yuzheng Hu, Ziwei Ji, Matus Telgarsky. \n
+  ICLR 2022.
 
 - [https://arxiv.org/abs/2106.05932 Early-stopped neural networks are consistent] \n
   Ziwei Ji, Justin D. Li, Matus Telgarsky. \n
