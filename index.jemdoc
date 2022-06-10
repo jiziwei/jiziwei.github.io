@@ -1,14 +1,16 @@
 = Ziwei Ji
 
-I am a sixth year PhD student in [https://cs.illinois.edu/ Computer Science] at
-University of Illinois Urbana-Champaign, advised by
+I am a research scientist at [https://research.google/ Google Research], New
+York City.
+Previously, I received my PhD degree from
+[https://cs.illinois.edu/ University of Illinois Urbana-Champaign], advised by
 [http://mjt.cs.illinois.edu/ Matus Telgarsky].
+I obtained my bachelor's degree in Computer Science from the ACM
+class at Shanghai Jiao Tong University.
 I am interested in machine learning and optimization, particularly in deep
 learning theory.
-Previously, I obtained my bachelor's degree in Computer Science from the ACM
-class at Shanghai Jiao Tong University.
 
-Email: ziweiji2 (at) illinois (dot) edu
+Email: ziweiji (at) google (dot) com
 
 [cv.pdf CV.]
 [https://scholar.google.com/citations?user=QiQ_FXIAAAAJ&hl=en Google Scholar.]
@@ -19,13 +21,14 @@ Email: ziweiji2 (at) illinois (dot) edu
 
 === Manuscripts
 
-- [https://arxiv.org/abs/2201.13419 Agnostic Learnability of Halfspaces via Logistic Loss] \n
-  Ziwei Ji, Kwangjun Ahn, Pranjal Awasthi, Satyen Kale, Stefani Karp. \n
-
 - [https://arxiv.org/abs/2202.04598 Reproducibility in Optimization: Theoretical Framework and Limits] \n
   Kwangjun Ahn, Prateek Jain, Ziwei Ji, Satyen Kale, Praneeth Netrapalli, Gil I. Shamir. \n
 
 === Conference publications
+
+- [https://arxiv.org/abs/2201.13419 Agnostic Learnability of Halfspaces via Logistic Loss] \n
+  Ziwei Ji, Kwangjun Ahn, Pranjal Awasthi, Satyen Kale, Stefani Karp. \n
+  ICML 2022.
 
 - [https://arxiv.org/abs/2110.11280 Actor-critic is implicitly biased towards high entropy optimal policies] \n
   Yuzheng Hu, Ziwei Ji, Matus Telgarsky. \n
