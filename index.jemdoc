@@ -19,16 +19,11 @@ Email: ziweiji (at) google (dot) com
 
 == Publications
 
-=== Manuscripts
-
-- [https://arxiv.org/pdf/2205.03260.pdf Convex Analysis at Infinity: An Introduction to Astral Space] \n
-  Miroslav Dudík, Ziwei Ji, Robert E Schapire, Matus Telgarsky.
-
 === Conference publications
 
 - [https://arxiv.org/abs/2202.04598 Reproducibility in Optimization: Theoretical Framework and Limits] \n
   Kwangjun Ahn, Prateek Jain, Ziwei Ji, Satyen Kale, Praneeth Netrapalli, Gil I. Shamir. \n
-  NeurIPS 2022.
+  NeurIPS 2022, Oral.
 
 - [https://arxiv.org/abs/2201.13419 Agnostic Learnability of Halfspaces via Logistic Loss] \n
   Ziwei Ji, Kwangjun Ahn, Pranjal Awasthi, Satyen Kale, Stefani Karp. \n
@@ -83,6 +78,9 @@ Email: ziweiji (at) google (dot) com
   WINE 2018.
 
 == Talks
+
+- *Agnostic Learnability of Halfspaces via Logistic Loss* \n
+Seminar in Statistical Learning, Dynamical Systems and Probability, AI Institute in Leipzig, October 2022.
 
 - *The dual of the margin: improved analyses and rates for gradient descent’s implicit bias* \n
 One World Seminar Series on the Mathematics of Machine Learning, December 2020.
